@@ -4,6 +4,7 @@
   <artifactId>codewars-katas</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
+  <dependencies>
 	<dependency>
 	    <groupId>junit</groupId>
 	    <artifactId>junit</artifactId>
