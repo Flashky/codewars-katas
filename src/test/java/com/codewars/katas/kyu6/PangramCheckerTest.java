@@ -1,10 +1,8 @@
-package com.codewars.kata.kyu6;
+package com.codewars.katas.kyu6;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
-
-import com.codewars.katas.kyu6.PangramChecker;
 
 public class PangramCheckerTest {
 
