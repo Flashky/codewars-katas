@@ -24,4 +24,6 @@ public class DnaStrand {
 		return dnaComplement;
 		
 	}
+	
+	// More solutions: https://www.codewars.com/kata/554e4a2f232cdd87d9000038/solutions/java
 }
