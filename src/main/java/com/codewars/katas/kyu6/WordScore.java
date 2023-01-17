@@ -13,5 +13,4 @@ public class WordScore {
 		return word.chars().map(charValue -> Character.getNumericValue(charValue)-9).reduce(0, Integer::sum);
 	}
 
-	// More solutions
 }
