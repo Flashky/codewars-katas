@@ -11,7 +11,7 @@ import org.apache.commons.lang3.StringUtils;
 public class JadenCase {
 	
 	public String toJadenCase(String phrase) {
-		
+
 		if(StringUtils.isBlank(phrase)) {
 			return null;
 		}
